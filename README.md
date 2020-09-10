@@ -5,7 +5,7 @@ I spent most of my time on research about convex optimisation and its applicatio
 
 
 - 📫 How to reach me: 
-    - Email: michael(dot)garstka(at)ox(dot)ac(dot)uk 
+    - Email: michael(dot)garstka(at)ox(dot)ac(dot)uk with [GPG-Key](https://keys.openpgp.org/search?q=michael.garstka@eng.ox.ac.uk)
     - or via my [Website](https://migarstka.github.io/)
     - or on [LinkedIn](http://www.linkedin.com/in/michaelgarstka/) 
 
