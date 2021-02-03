@@ -9,4 +9,3 @@ I spend most of my time on research about convex optimisation and its applicatio
     - or via my [Website](https://migarstka.github.io/)
     - or on [LinkedIn](http://www.linkedin.com/in/michaelgarstka/) 
 
-![](https://komarev.com/ghpvc/?username=migarstka)
