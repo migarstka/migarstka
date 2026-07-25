@@ -2,7 +2,7 @@
 I have a DPhil (PhD) in Optimisation at the University of Oxford (Trinity College) 👨‍🎓.
 My research focused on convex optimisation and its applications 👨‍💻. I am also the main developer of [COSMO.jl](https://github.com/oxfordcontrol/COSMO.jl), a solver for convex conic problems.
 
-Between 2021 and 2026, I was the Head of Science at Qogita where I work with my team on:
+Between 2021 and 2026 I was the Head of Science at Qogita where I work with my team on:
 - product data curation
 - product pricing
 - product ranking
