@@ -7,7 +7,7 @@ Between 2021 and 2026 I was the Head of Science at Qogita where I worked with my
 - product pricing
 - product ranking
 - algorithms for efficient market making
-- building a data plaform (data lake, data warehouse, ETL batch jobs, Kafka streaming)
+- building a data platform (snowflake, S3, airflow, Kafka)
 
 
 
